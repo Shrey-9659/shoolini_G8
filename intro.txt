@@ -1,0 +1,13 @@
+Github Repo Link : https://github.com/Shrey-9659/shoolini_G8
+VS code Download link : 
+https://code.visualstudio.com/download
+
+Extensions to download : 
+Live server *
+Html Css Support *
+JS JSX Snippet *
+Auto Rename Tag
+Color Picker
+Prettier
+Git graph
+Gitlens
